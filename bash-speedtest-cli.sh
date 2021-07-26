@@ -21,7 +21,7 @@ do
     done
 
 currentTime=$(date "+%H:%M:%S on %Y-%m-%d")
-waitTime='600'
+waitTime='150'
 resultsFile='speedtestresults.txt'
 BASEDIR=$(dirname "$0")
 
