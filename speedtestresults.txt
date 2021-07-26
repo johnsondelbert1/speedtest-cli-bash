@@ -34,3 +34,37 @@
 27449,"Cutting Edge Communications, Inc","Spokane, WA",2021-07-26T14:02:34.741827Z,21.582918666902774,16.495,8055442.11288221,940597.7532497353,,67.110.214.171
 27449,"Cutting Edge Communications, Inc","Spokane, WA",2021-07-26T14:07:36.978778Z,21.582918666902774,17.691,7271130.089201111,629598.7223996331,,67.110.214.171
 27449,"Cutting Edge Communications, Inc","Spokane, WA",2021-07-26T14:15:25.599072Z,21.582918666902774,16.542,8577933.483265445,798312.6182505698,,67.110.214.171
+{
+    "download": 7523404.135847646,
+    "upload": 622792.1819293831,
+    "ping": 20.948,
+    "server": {
+        "url": "http://speedtest.cet.com:8080/speedtest/upload.php",
+        "lat": "47.6589",
+        "lon": "-117.4250",
+        "name": "Spokane, WA",
+        "country": "United States",
+        "cc": "US",
+        "sponsor": "Cutting Edge Communications, Inc",
+        "id": "27449",
+        "host": "speedtest.cet.com:8080",
+        "d": 21.582918666902774,
+        "latency": 20.948
+    },
+    "timestamp": "2021-07-26T14:21:17.901089Z",
+    "bytes_sent": 1409024,
+    "bytes_received": 9661580,
+    "share": null,
+    "client": {
+        "ip": "67.110.214.171",
+        "lat": "47.4949",
+        "lon": "-117.5789",
+        "isp": "Verizon Business",
+        "isprating": "3.7",
+        "rating": "0",
+        "ispdlavg": "0",
+        "ispulavg": "0",
+        "loggedin": "0",
+        "country": "US"
+    }
+}
